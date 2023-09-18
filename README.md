@@ -1,11 +1,7 @@
 # WOO SEOK CHOI 
 
-<h3 align="center"><b>🔫 🔫 🔫 🔫 🔫 🔫 </b></h3>
 <p align="center">
 </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooseok777777&show_icons=true&theme=radical)
-<br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssnn2145)](https://solved.ac/ssnn2145/)
 # 💪Skills
 ### Platforms & Languages
