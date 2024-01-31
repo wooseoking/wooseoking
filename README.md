@@ -4,7 +4,7 @@
 ### Languages
 
 ### DataBase
-<img src="https://img.shields.io/badge/MySQL-#4479A1?style=for-the-badge&logo=MySQL&logoColor=#4479A1">
+![MySQL](https://img.shields.io/badge/MySQL-6DB33F?style=flat-square&logo=MySQL&logoColor=black)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
