@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=white&height=200&section=header&text=BackEnd%20Junior%20CHOIWOOSEOK&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=white&height=200&section=header&text=BackEnd%20Junior%20CHOIWOOSEOK&fontSize=30&fontColor=white)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssnn2145)](https://solved.ac/ssnn2145/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
