@@ -1,21 +1,5 @@
 # WOO SEOK CHOI 
 
-<p align="center">
-</p>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssnn2145)](https://solved.ac/ssnn2145/)
-# 💪Skills
-### Platforms & Languages
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-<br>
-
---------------------------------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooseok777777 )](https://github.com/wooseok777777)
-</p>
-
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
